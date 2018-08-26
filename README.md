@@ -3,6 +3,16 @@
 
 If you are running MagicMirror in a Docker container, like me, you may noticed the `custom.css` file will not be loaded. This is because only the `modules` and the `config` directory are mounted. So if you want to scale your MagicMirror UI with custom CSS it won't work. This module will do the job.
 
+## Screenshots
+
+### Default zoom
+
+![MMM-zoom - 100%](MMM-zoom-1.00.png)
+
+### 75% zoom
+
+![MMM-zoom - 75%](MMM-zoom-0.75.png)
+
 ## Installation
 
 In your terminal, go to your MagicMirror's Module folder:
