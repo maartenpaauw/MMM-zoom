@@ -39,3 +39,16 @@ The following property can be configured:
 | Option | Description                                                           |
 | ------ | --------------------------------------------------------------------- |
 | `zoom` | Zoom level as a number or a percentage. <br>**Default value:** `0.75` |
+
+## Authors
+
+- **Maarten Paauw** - *Initial work* - [maartenpaauw](https://github.com/maartenpaauw)
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE.md](https://github.com/maartenpaauw/MMM-zoom/blob/master/LICENSE.md) file for details
+
+## Acknowledgments
+
+- [FredSWG](https://forum.magicmirror.builders/user/fredswg) - Code sample "how-to" scale the entire Magic Mirror UI.
+
